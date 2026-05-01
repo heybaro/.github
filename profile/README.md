@@ -4,7 +4,7 @@
 
 We run the **General Manager** function and the operational stack underneath it, so a brand built outside the United States can **launch, sell, and scale in the US** without rebuilding a US company from scratch.
 
-🌐 [heybaro.com](https://heybaro.com) · ✉️ brian@heybaro.com · ✉️ max@heybaro.com
+🌐 [heybaro.com](https://heybaro.com) · [GitHub](https://github.com/heybaro) · ✉️ brian@heybaro.com · ✉️ max@heybaro.com
 
 ---
 
@@ -27,12 +27,12 @@ Instead of stitching together half a dozen vendors (entity counsel, tax, payment
 ## What we handle (high level)
 
 - **US incorporation & foundational corporate work** — Delaware C-Corp setup, EIN, registered agent, core governance documents, share issuance *(scope as appropriate per brand / investor constraints)*  
-- **US banking & payment infrastructure** — pragmatic paths to accepting US buyers; **Merchant of Record** approaches when that’s the cleanest way to reduce payments/tax complexity for the brand  
+- **US banking & payment infrastructure** — pragmatic paths to accepting US buyers; **[Merchant of Record](https://stripe.com/resources/more/what-is-a-merchant-of-record)** approaches when that’s the cleanest way to reduce payments/tax complexity for the brand  
 - **Multi-state sales tax** — economic-nexus monitoring, registration, collection, filing workflows across states where you have obligation  
 - **DTC storefront operations** — commerce execution integrated with payments, tax, fulfillment, and analytics *(platform details evolve; engagement is hands-on)*  
-- **Paid media** — execution support on accounts the brand owns (ex. Meta / Google), aligned to US creative and funnel reality  
-- **Fulfillment & returns** — 3PL integration (ex. ShipBob), RMAs, restock/disposal workflows  
-- **Category compliance** — FDA / MoCRA (and adjacent label/regulatory monitoring) **when relevant** to the SKU mix  
+- **Paid media** — execution support on accounts the brand owns (ex. [Meta](https://business.facebook.com/) / [Google Ads](https://ads.google.com/)), aligned to US creative and funnel reality  
+- **Fulfillment & returns** — 3PL integration (ex. [ShipBob](https://www.shipbob.com/)), RMAs, restock/disposal workflows  
+- **Category compliance** — [FDA / cosmetics (MoCRA)](https://www.fda.gov/cosmetics) and adjacent label/regulatory monitoring **when relevant** to the SKU mix  
 - **Reporting** — operational + commercial visibility across the US stack (not “dashboard theater”)  
 
 ---
@@ -56,7 +56,7 @@ Principle: **we earn on the work we truly operate** — not by taxing channels w
 
 BARO is built by operators who’ve **launched, scaled, and run** work in the US — and have lived through the painful parts of the cross-border playbook.
 
-- **Brian Cho** — Founder & CEO. Previously co-founder at Jobtest.org and Resonado Labs; PM at Flock Safety.  
+- **Brian Cho** — Founder & CEO. Previously co-founder at [Jobtest.org](https://jobtest.org) (2022–2024) and [Resonado Labs](https://resonadolabs.com) (2019–2022); Senior PM at [Flock Safety](https://www.flocksafety.com/) (2025–2026).  
 - **Max Cummings** — Co-founder & COO — max@heybaro.com  
 
 ---
